@@ -7,6 +7,7 @@
     <SteamPublishID>0</SteamPublishID>
     <AssemblyName>CIBridge_Pathfinders</AssemblyName>
     <RootNamespace>CIBridge_Pathfinders</RootNamespace>
+    <ProjectGuid>{7F62D280-5B40-40AF-821B-58E41CD77D52}</ProjectGuid>
   </PropertyGroup>
   <ItemGroup>
     <Folder Include="Config\" />
