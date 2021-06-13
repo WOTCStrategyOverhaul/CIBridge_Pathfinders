@@ -1,12 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Guid>53b3a2ad-966f-4a32-b641-4807a3898470</Guid>
-    <Name>CIBridge_Pathfinders</Name>
+    <Name>SOBridge_Pathfinders</Name>
     <Description>Description of My XCOM 2 Mod.</Description>
     <SteamPublishID>0</SteamPublishID>
-    <AssemblyName>CIBridge_Pathfinders</AssemblyName>
-    <RootNamespace>CIBridge_Pathfinders</RootNamespace>
+    <AssemblyName>SOBridge_Pathfinders</AssemblyName>
+    <RootNamespace>SOBridge_Pathfinders</RootNamespace>
     <ProjectGuid>{7F62D280-5B40-40AF-821B-58E41CD77D52}</ProjectGuid>
   </PropertyGroup>
   <ItemGroup>
